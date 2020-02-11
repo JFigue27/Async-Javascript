@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Learning Async Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFigue27/Async-Javascript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Jose Jaime Figueroa Barrios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JFigue27/Async-Javascript/issues"
+  },
+  "homepage": "https://github.com/JFigue27/Async-Javascript#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
